@@ -1,0 +1,17 @@
+.title1 , .title2 {
+text-align: center;
+color: white;
+
+}
+.wrapper{
+    background-color: rgb(26, 26, 61);
+    border-radius: 12px;
+}
+
+body {
+    background-color: rgb(15, 15, 55);
+}
+
+.img1 {
+    border-radius: 12px;
+}
